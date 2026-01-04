@@ -20,7 +20,6 @@
     Currently, I am focusing on low-level programming (C/C++, Assembly) and digital design.
   </p>
   <p>
-    🌱 <b>I’m currently learning:</b> Advanced MIPS/RISC-V Architecture<br>
     📫 <b>Contact:</b> <a href="mailto:algordeev18@gmail.com">algordeev18@gmail.com</a>
   </p>
 </div>
