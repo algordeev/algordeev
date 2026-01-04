@@ -12,29 +12,23 @@
 
 <br />
 
-<div align="center"> 
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h2>👨‍💻 About Me</h2>
-        <p>
-          I am a Computer Engineering student with a deep passion for <b>Robotics</b> and <b>Embedded Systems</b>. My journey started with competitive robotics, leading me to become an <b>International Finalist at the World Robot Olympiad 2021</b>.
-        </p>
-        <p>
-          Currently, I am focusing on low-level programming (C/C++, Assembly) and digital design.
-        </p>
-        <p>
-          🌱 <b>I’m currently learning:</b> Advanced MIPS/RISC-V Architecture<br>
-          💬 <b>Ask me about:</b> Arduino, STM32, Algorithms<br>
-          📫 <b>Contact:</b> <a href="mailto:algordeev18@gmail.com">algordeev18@gmail.com</a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-         <img src="https://github-readme-stats.vercel.app/api?username=algordeev&show_icons=true&theme=default&hide_border=true&count_private=true" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+  <p>
+    I am a Computer Engineering student with a deep passion for <b>Robotics</b> and <b>Embedded Systems</b>.<br>
+    My journey started with competitive robotics, leading me to become an <b>International Finalist at the World Robot Olympiad 2021</b>.
+  </p>
+  <p>
+    Currently, I am focusing on low-level programming (C/C++, Assembly) and digital design.
+  </p>
+  <p>
+    🌱 <b>I’m currently learning:</b> Advanced MIPS/RISC-V Architecture<br>
+    💬 <b>Ask me about:</b> Arduino, STM32, Algorithms<br>
+    📫 <b>Contact:</b> <a href="mailto:algordeev18@gmail.com">algordeev18@gmail.com</a>
+  </p>
 </div>
+
+<br />
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
@@ -72,9 +66,6 @@
   <img src="https://img.shields.io/badge/Turkish-B1-red" />
   <img src="https://img.shields.io/badge/Spanish-A2-yellow" />
 </p>
-
-
-
 
 
 <!--
