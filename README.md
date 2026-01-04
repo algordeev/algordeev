@@ -4,26 +4,6 @@
   Computer Engineering Student 💻 | Robotics Enthusiast 🤖 | Embedded Systems Developer ⚙️
 </h3>
 
-<div align="center">
-  Currently studying at <b>Yasar University (Izmir)</b> & <b>Universidad Complutense de Madrid</b> 🌍
-</div>
-
-<br />
-
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <p>
-    I am a Computer Engineering student with a deep passion for <b>Robotics</b> and <b>Embedded Systems</b>.<br>
-    My journey started with competitive robotics, leading me to become an <b>International Finalist at the World Robot Olympiad 2021</b>.
-  </p>
-  <p>
-    Currently, I am focusing on low-level programming (C/C++, Assembly) and digital design.
-  </p>
-  <p>
-    📫 <b>Contact:</b> <a href="mailto:algordeev18@gmail.com">algordeev18@gmail.com</a>
-  </p>
-</div>
-
 <br />
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
