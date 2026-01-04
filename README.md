@@ -44,17 +44,6 @@
 
 <br />
 
-<h2>🏆 Key Achievements</h2>
-
-| Year | Award | Competition |
-| :--- | :--- | :--- |
-| **2021** | 🥈 **International Finalist** | **World Robot Olympiad (WRO)** |
-| 2022 | 🥇 First Place | All-Russian Festival "Vector" |
-| 2022 | 🥈 Second Place | Baltic Science & Engineering Competition |
-| 2021 | 🥇 Winner (Eco) | Russian Robot Olympiad |
-
-<br />
-
 <h2>🌐 Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/Russian-Native-blue" />
