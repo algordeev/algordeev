@@ -4,9 +4,7 @@
   Computer Engineering Student 💻 | Robotics Enthusiast 🤖 | Embedded Systems Developer ⚙️
 </h3>
 
-<br />
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
