@@ -20,15 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-<br />
 
-<h2>🌐 Languages</h2>
-<p>
-  <img src="https://img.shields.io/badge/Russian-Native-blue" />
-  <img src="https://img.shields.io/badge/English-C1-green" />
-  <img src="https://img.shields.io/badge/Turkish-B1-red" />
-  <img src="https://img.shields.io/badge/Spanish-A2-yellow" />
-</p>
 <!--
 **algordeev/algordeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
