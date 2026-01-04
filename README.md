@@ -1,10 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aleksandr Gordeev 👋</h1>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aleksandr+Gordeev;Computer+Engineering+Student;Robotics+Enthusiast+%2F+WRO+Finalist;Embedded+Systems+Developer" alt="Typing SVG" />
-  </a>
-</h1>
+<h3 align="center">
+  Computer Engineering Student 💻 | Robotics Enthusiast 🤖 | Embedded Systems Developer ⚙️
+</h3>
 
 <div align="center">
   Currently studying at <b>Yasar University (Izmir)</b> & <b>Universidad Complutense de Madrid</b> 🌍
@@ -66,8 +64,6 @@
   <img src="https://img.shields.io/badge/Turkish-B1-red" />
   <img src="https://img.shields.io/badge/Spanish-A2-yellow" />
 </p>
-
-
 <!--
 **algordeev/algordeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
