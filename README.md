@@ -21,7 +21,6 @@
   </p>
   <p>
     🌱 <b>I’m currently learning:</b> Advanced MIPS/RISC-V Architecture<br>
-    💬 <b>Ask me about:</b> Arduino, STM32, Algorithms<br>
     📫 <b>Contact:</b> <a href="mailto:algordeev18@gmail.com">algordeev18@gmail.com</a>
   </p>
 </div>
