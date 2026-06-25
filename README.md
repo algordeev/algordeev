@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Assembly_(MIPS/RISC V)-A8B9CC?style=for-the-badge&logo=cpu&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-   <img src="https://img.shields.io/badge/Matlab-ED8B00?style=for-the-badge&logo=matlab&logoColor=white" />
+   <img src="https://img.shields.io/badge/Matlab-6fa8dc?style=for-the-badge&logo=matlab&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_Systems-333333?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
